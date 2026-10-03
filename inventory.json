@@ -1,0 +1,23 @@
+[
+  {
+    "hostname": "R1-Core",
+    "ip": "127.0.0.1",
+    "device_type": "Router",
+    "location": "Main Office",
+    "port": 8022
+  },
+  {
+    "hostname": "SW1-Access",
+    "ip": "127.0.0.1",
+    "device_type": "Switch",
+    "location": "Floor 2",
+    "port": 9
+  },
+  {
+    "hostname": "R2-Edge",
+    "ip": "192.0.2.10",
+    "device_type": "Router",
+    "location": "Data Center",
+    "port": 22
+  }
+]

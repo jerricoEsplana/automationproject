@@ -1,0 +1,29 @@
+[
+  {
+    "hostname": "R1-Core",
+    "ip": "127.0.0.1",
+    "device_type": "Router",
+    "location": "Main Office",
+    "port": 8022,
+    "status": "DOWN",
+    "checked_at": "2026-10-03T13:56:00"
+  },
+  {
+    "hostname": "SW1-Access",
+    "ip": "127.0.0.1",
+    "device_type": "Switch",
+    "location": "Floor 2",
+    "port": 9,
+    "status": "DOWN",
+    "checked_at": "2026-10-03T13:56:02"
+  },
+  {
+    "hostname": "R2-Edge",
+    "ip": "192.0.2.10",
+    "device_type": "Router",
+    "location": "Data Center",
+    "port": 22,
+    "status": "DOWN",
+    "checked_at": "2026-10-03T13:56:04"
+  }
+]
